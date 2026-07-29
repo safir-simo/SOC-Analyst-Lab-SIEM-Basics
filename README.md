@@ -62,8 +62,6 @@ Logs are collected from various sources:
 
 ## 🧪 SIEM Investigation Hands-on Practice
 
-## 🧪 SIEM Investigation Hands-On
-
 I did the following with the SIEM dashboard during the lab:
 
 - Conduct searches and filters on logs with queries
@@ -118,7 +116,7 @@ Examples of what I have done:
 | Technique | Description |
 |---|---|
 | T1110 | Brute Force (multiple login attempts) |
-| T1078 | Valid Accounts (login with a successful session from the suspicious location) |
+| T1078 | Valid Accounts (login activity) |
 
 ---
 
@@ -140,6 +138,12 @@ Examples of what I have done:
 - It is essential to have effective log filters
 - Proper analysis of the alerts helps to prevent false positives
 - It is important to know the difference between normal and abnormal behavior
+
+---
+
+## 🎯 Project Impact
+
+The lab demonstrates practical proficiency in the use of SIEM tools, log analysis, and alert validation, which aligns with the core responsibilities of a Tier 1 SOC Analyst.
 
 ---
 
