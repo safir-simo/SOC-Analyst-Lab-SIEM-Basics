@@ -1,4 +1,4 @@
-# 📂 SOC Analyst Lab – SIEM Basics
+# 📂 SOC Analyst Lab – SIEM Fundamentals & Log Analysis
 
 ## 📌 Project Description
 
