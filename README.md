@@ -1,4 +1,4 @@
-# 🔍 SOC Analyst Lab – SIEM Basics
+# 📂 SOC Analyst Lab – SIEM Basics
 
 ## 📌 Project Description
 
@@ -14,7 +14,7 @@ SIEM system gathers and analyzes security logs from various sources in order to 
 
 ---
 
-## 🧪 Lab Objectives
+## ✍🏼 Lab Objectives
 
 - Understanding SIEM architecture and components
 
@@ -60,7 +60,7 @@ Logs are collected from various sources:
 
 ---
 
-## 🛠️ Tools Used
+## 💾 Tools Used
 
 - TryHackMe SIEM Lab Environment
 
@@ -68,7 +68,7 @@ Logs are collected from various sources:
 
 ---
 
-## 🔎 Key Takeaways
+## 🗝️ Key Takeaways
 
 - SIEM is an essential component for real-time threat detection
 
