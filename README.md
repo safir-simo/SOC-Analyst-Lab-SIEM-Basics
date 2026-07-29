@@ -95,9 +95,13 @@ Logs are collected from various sources:
 ## 📸 Evidence
 
 ### Task Completion
+![Log Ingestion](log_ingestion.png)
+![Task Lab 1](Lab_task_1.png)
+![Task Lab 2](Lab_task_2.png)
 
 
 
-### SOC Dashboard
+
+### SIEM Dashboard
 ![Dashboard](SIEM_dashboard.png)
 
