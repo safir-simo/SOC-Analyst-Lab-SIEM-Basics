@@ -94,3 +94,10 @@ Logs are collected from various sources:
 
 ## 📸 Evidence
 
+### Task Completion
+
+
+
+### SOC Dashboard
+![Dashboard](SIEM_dashboard.png)
+
