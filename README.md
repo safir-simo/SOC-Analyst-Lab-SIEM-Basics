@@ -60,11 +60,31 @@ Logs are collected from various sources:
 
 ---
 
+## 🧪 SIEM Investigation Hands-on Practice
+
+I performed the following actions on the SIEM dashboard:
+
+- Search and filter logs
+- Investigating authentication events
+- Finding activity patterns
+- Checking alerts that fired based on the correlation rule
+
+Some examples:
+
+- I used search queries to filter logs by event type
+- I detected login-related events
+- I observed the way alerts were fired depending on the rules
+
+
+---
+
 ## 💾 Tools Used
 
-- TryHackMe SIEM Lab Environment
+- TryHackMe SIEM Lab environment
+- SIEM Dashboard
+- Log search & filter interface
+- Alert system
 
-- SIEM Dashboard Interface
 
 ---
 
@@ -80,6 +100,26 @@ Logs are collected from various sources:
 
 ---
 
+## 🔄 Workflow of SOC Demonstrated
+
+1. Collection of logs from multiple sources
+2. Observation of events on the SIEM dashboard
+3. Creation of alerts from detection rules
+4. Initial alerts check
+5. Investigation of suspicious events
+
+
+---
+
+## 🌐 MITRE ATT&CK mapping
+
+| Technique | Description |
+|---|---|
+| T1110 | Brute Force (multiple login attempts) |
+| T1078 | Valid Accounts (login with a successful session from the suspicious location) |
+
+---
+
 ## 📚 Skills Demonstrated
 
 - SIEM fundamentals
@@ -89,6 +129,15 @@ Logs are collected from various sources:
 - Events investigation
 
 - Security monitoring principles
+
+---
+
+## 🗃️ Lessons Learned
+
+- SIEM collects logs from multiple locations
+- It is essential to have effective log filters
+- Proper analysis of the alerts helps to prevent false positives
+- It is important to know the difference between normal and abnormal behavior
 
 ---
 
