@@ -62,18 +62,20 @@ Logs are collected from various sources:
 
 ## 🧪 SIEM Investigation Hands-on Practice
 
-I performed the following actions on the SIEM dashboard:
+## 🧪 SIEM Investigation Hands-On
 
-- Search and filter logs
-- Investigating authentication events
-- Finding activity patterns
-- Checking alerts that fired based on the correlation rule
+I did the following with the SIEM dashboard during the lab:
 
-Some examples:
+- Conduct searches and filters on logs with queries
+- Investigate authentication and system events
+- Identify patterns in logs
+- Verify alerts generated from correlation rules
 
-- I used search queries to filter logs by event type
-- I detected login-related events
-- I observed the way alerts were fired depending on the rules
+Examples of what I have done:
+
+- Filter logs based on event type
+- View login activities
+- Understand how an alert is generated based on suspicious activities
 
 
 ---
@@ -81,9 +83,9 @@ Some examples:
 ## 💾 Tools Used
 
 - TryHackMe SIEM Lab environment
-- SIEM Dashboard
+- SIEM Dashboard Interface
 - Log search & filter interface
-- Alert system
+- Alert Monitoring system
 
 
 ---
