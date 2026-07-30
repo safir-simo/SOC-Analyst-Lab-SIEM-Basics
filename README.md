@@ -141,6 +141,16 @@ Examples of what I have done:
 
 ---
 
+## 🔗 Cyber Kill Chain Mapping
+
+This attack is able to be mapped to the Cyber Kill Chain as follows:
+
+- Reconnaissance → External scanning activity 
+- Delivery → SSH login attempts
+- Exploitation → Successful login detected
+
+---
+
 ## 🎯 Project Impact
 
 The lab demonstrates practical proficiency in the use of SIEM tools, log analysis, and alert validation, which aligns with the core responsibilities of a Tier 1 SOC Analyst.
